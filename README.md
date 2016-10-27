@@ -1,24 +1,31 @@
-# README
+# Strong Params
+---------------------------------------
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This README would demenstrate:
 
-Things you may want to cover:
+[What is Strong Params ?](#question1)
 
-* Ruby version
+[How does it work ?](#question2)
 
-* System dependencies
+[Black Listing VS White Listing ?](#question3)
 
-* Configuration
+[Why are we using whitelisting ?](#question4)
 
-* Database creation
+[What cause the error ?](#question5)
 
-* Database initialization
+--------------------------------------
 
-* How to run the test suite
+<a name="question1"/>
+## What is Strong Params ?
 
-* Services (job queues, cache servers, search engines, etc.)
+<a name="question2"/>
+## How does it work ?
 
-* Deployment instructions
+<a name="question3"/>
+## Black Listing VS White Listing ?
 
-* ...
+<a name="question4"/>
+## Why are we using whitelisting ?
+
+<a name="question5"/>
+## What cause the error ?
