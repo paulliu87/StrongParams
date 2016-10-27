@@ -29,3 +29,8 @@ This README would demenstrate:
 
 <a name="question5"/>
 ## What cause the error ?
+
+
+
+Inline-style: 
+![alt text](https://github.com/paulliu87/StrongParams/blob/master/download.jpg "Strong Params")
