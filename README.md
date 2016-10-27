@@ -33,4 +33,4 @@ This README would demenstrate:
 
 
 Inline-style: 
-![alt text](https://github.com/paulliu87/StrongParams/blob/master/download.jpg "Strong Params")
+![alt text](https://github.com/paulliu87/StrongParams/blob/master/download.png "Strong Params")
