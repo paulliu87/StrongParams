@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Username:</strong>
+  <%= @high_score.username %>
+</p>
+
+<p>
+  <strong>Password:</strong>
+  <%= @high_score.password %>
+</p>
+
+<%= link_to 'Edit', edit_high_score_path(@high_score) %> |
+<%= link_to 'Back', high_scores_path %>
