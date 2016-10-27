@@ -135,3 +135,5 @@ Live Code
 [A Rule of Thumb for Strong Parameters](http://patshaughnessy.net/2014/6/16/a-rule-of-thumb-for-strong-parameters)
 
 [You Should Be Whitelisting Parameters](https://www.happybearsoftware.com/whitelisting)
+
+
